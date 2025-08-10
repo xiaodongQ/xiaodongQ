@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 👾 Cute Maze
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph.gif">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph-dark.gif">
-  <img alt="github contribution grid snake pacman animation" src="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph.gif">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph-dark.svg">
+  <img alt="github contribution grid snake pacman animation" src="https://raw.githubusercontent.com/xiaodongQ/xiaodongQ/output/pacman-contribution-graph.svg">
 </picture>
 
