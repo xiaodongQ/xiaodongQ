@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaodongQ&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongQ&layout=compact&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5&exclude_repo=https://github.com/xiaodongQ/xiaodongq.github.io&hide=assembly,BitBake,yacc" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xiaodongQ&show_icons=true&include_all_commits=true&hide_border=true" alt="GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaodongQ&layout=compact&hide_border=true&langs_count=10&size_weight=0.5&count_weight=0.5&hide=assembly,BitBake,yacc,M4,SmPL,Roff,Objective-C,makefile,cmake,perl" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 👾 Cute Maze
