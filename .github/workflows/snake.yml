@@ -1,9 +1,9 @@
 name: Generate Snake Animation
 
 on:
-  # Every day at 00:00 UTC
+  # Every day at 16:00 UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 16 * * *"
   push:
     branches:
     - master
