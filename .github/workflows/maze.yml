@@ -1,6 +1,7 @@
 name: Generate Pacman Game
 
 on:
+  # Every day at 16:00 UTC
   schedule:
     - cron: "0 16 * * *"
   workflow_dispatch:
